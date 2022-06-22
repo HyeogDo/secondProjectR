@@ -309,7 +309,8 @@ $RECYCLE.BIN/
 *.msix
 *.msm
 *.msp
-
+*.csv
+*.rds
 # Windows shortcuts
 *.lnk
 
